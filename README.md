@@ -3,7 +3,7 @@ GuiCronMan--The minimalist manager of Cron TCL/TK tasks is a graphic application
 
 # Минималистичный менеджер Cron задач на Tcl/Tk
 
-![Cron Manager](https://github.com/totiks2012/TED2/raw/main/screenshots/cron_manager_screenshot.png)
+![Cron Manager](https://github.com/totiks2012/GuiCronMan/blob/main/cron_manager_screenshot.png)
 
 ## Описание
 
