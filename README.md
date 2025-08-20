@@ -45,22 +45,22 @@ sudo dnf install tcl tk python3
 
 ## Установка
 
-1. Скачайте скрипт `GuiCronManager_07.tcl`
+1. Скачайте скрипт `GuiCronManager_09.tcl`
 2. Сделайте его исполняемым:
    ```bash
-   chmod +x GuiCronManager_07.tcl
+   chmod +x GuiCronManager_09.tcl
    ```
 
 ## Запуск
 
 ```bash
-./GuiCronManager_07.tcl
+./GuiCronManager_09.tcl
 ```
 
 или
 
 ```bash
-wish ./GuiCronManager_07.tcl
+wish ./GuiCronManager_09.tcl
 ```
 
 ## Использование
@@ -127,7 +127,7 @@ wish ./GuiCronManager_07.tcl
 
 ```
 каталог_скрипта/
-  GuiCronManager_07.tcl
+  GuiCronManager_09.tcl
   exec_log/
     cron_manager_tasks.txt      # Конфигурация задач
     cron_manager_имя_задачи.log # Логи выполнения
