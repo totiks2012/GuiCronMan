@@ -1,4 +1,6 @@
-# Предлагаю скачать обновлёную и улучщеную версию GuiCronManager_09.tcl в которой организована правильная работа задач в crontab, а точнее каждой задаче присваевается свой уникальный UID, и это убирает конфликт имен задач в crontab. В приведеной ранее версии GuiCronManager_07.tcl есть баг , возникает конфликт имен и потому сбрасывается crontab, я пофиксил это. 
+# Предлагаю скачать обновлёную и улучщеную версию GuiCronManager_09.tcl 
+
+в которой организована правильная работа задач в crontab, а точнее каждой задаче присваевается свой уникальный UID, и это убирает конфликт имен задач в crontab. В приведеной ранее версии GuiCronManager_07.tcl есть баг , возникает конфликт имен и потому сбрасывается crontab, я пофиксил это. 
 
 # GuiCronMan
 GuiCronMan--The minimalist manager of Cron TCL/TK tasks is a graphic application for managing the planned tasks in UNIX -like systems.
